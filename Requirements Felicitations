@@ -1,0 +1,133 @@
+Objective: 
+To establish a strong basis for development, elicit and outline the system's needs.
+1.1 Functional requirements
+ Customer Registration: New users should be able to register on the system by entering their personal details, such as their name, address, and birthdate.
+
+ User authentication: Users need to be able to safely enter their login and password to access the website.
+
+ Account management: Users are able to set up, access, and control their accounts (such as checking and savings).
+
+ Transaction History: Users ought to be able to access their complete account history through the system.
+
+ Refund and Deposit  Features: Clients ought to be able to add money to and take money out of their accounts.
+
+ Example of Mock Interview: To obtain these needs, meet with a client in a mock interview. Record their answers and address any questions.
+
+Non-Functional Requirements
+ Security: The system needs to use encryption and secure protocols to guarantee the safe handling of user credentials and financial data.
+
+ Performance: There should not  be any noticeable lag or delay in the transaction processing for many people using the system at once.
+
+ Usability: People with varying levels of technical expertise should be able to easily navigate and understand the user interface.
+
+ Availability:The system should be accessible all the time so that users may access their accounts anytime they need to.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+people using the system at once.
+
+ Usability: People with varying levels of technical expertise should be able to easily navigate and understand the user interface.
+
+Availability: The system should be accessible all the the time so that users may access their accounts anytime they need to.
