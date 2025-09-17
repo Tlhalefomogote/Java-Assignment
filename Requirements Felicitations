@@ -1,133 +1,29 @@
-Objective: 
-To establish a strong basis for development, elicit and outline the system's needs.
-1.1 Functional requirements
- Customer Registration: New users should be able to register on the system by entering their personal details, such as their name, address, and birthdate.
+                                         Requirements Elicitation – Banking System
 
- User authentication: Users need to be able to safely enter their login and password to access the website.
+      1. Functional Requirements
 
- Account management: Users are able to set up, access, and control their accounts (such as checking and savings).
+ The system should be able to:
 
- Transaction History: Users ought to be able to access their complete account history through the system.
+ -Provide personal and professional information to potential clients.
+ -Permit consumers to open accounts for savings, investments, or checks.
+ - Implement account-specific guidelines:
+   - Savings:There should be No withdrwals done.
+   -Investment: To open an account 500pula is needed.
+   -Employment information is required for the check.
+ -Permit money to be deposited in any account.
+ -Permit cash withdrawals from check and investment accounts.
+ -Compute and apply the interest each month:
+  -There should be 0.05% in savings
+ - Show each account's transaction history.
+ - Support several accounts for each client
 
- Refund and Deposit  Features: Clients ought to be able to add money to and take money out of their accounts.
+ 2. Non-Functional requirements:
+ *Security : For data protection and authentication.
 
- Example of Mock Interview: To obtain these needs, meet with a client in a mock interview. Record their answers and address any questions.
+ *Performance - Quick processing of interest and transactions should be done.
 
-Non-Functional Requirements
- Security: The system needs to use encryption and secure protocols to guarantee the safe handling of user credentials and financial data.
+ *Usability: There should be easy-to-use user interface for onboarding and account actions.
 
- Performance: There should not  be any noticeable lag or delay in the transaction processing for many people using the system at once.
+ * Scalability:Should be able to accomodate several clients and accounts.
 
- Usability: People with varying levels of technical expertise should be able to easily navigate and understand the user interface.
-
- Availability:The system should be accessible all the time so that users may access their accounts anytime they need to.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-people using the system at once.
-
- Usability: People with varying levels of technical expertise should be able to easily navigate and understand the user interface.
-
-Availability: The system should be accessible all the the time so that users may access their accounts anytime they need to.
+ * Reliability: Precise interest and transaction records Should be done.
